@@ -31,7 +31,7 @@ public class Vehicle {
     }
 
     public void printInfo(){
-        System.out.println("vehicle properties: " +
+        System.out.println("Vehicle properties: " +
                 "\n\t- serial number: " + this.serialNumber +
                 "\n\t- capacity: " + this.noPersons +
                 "\n\t- name: " + this.name);
